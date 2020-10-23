@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="172.923" height="172.923" viewBox="0 0 172.923 172.923">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5781f8"/>
+      <stop offset="1" stop-color="#39d0be"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_button_play" data-name="Group button play" transform="translate(356.192 -202.872)">
+    <rect id="Circle" width="172.923" height="172.923" rx="86.461" transform="translate(-356.192 202.872)" fill="url(#linear-gradient)"/>
+    <path id="Tam_giác" data-name="Tam giác" d="M-293.016,341.443a5.381,5.381,0,0,1-2.453-.592,5.389,5.389,0,0,1-2.937-4.8V242.614a5.389,5.389,0,0,1,2.937-4.8,5.39,5.39,0,0,1,5.61.43l64.687,46.718a5.39,5.39,0,0,1,2.235,4.37,5.388,5.388,0,0,1-2.235,4.37l-64.687,46.719A5.39,5.39,0,0,1-293.016,341.443Z" fill="#f9f9f9"/>
+  </g>
+</svg>
