@@ -5,6 +5,10 @@
 			<div class="row">
 				<div class="col-md-3">
 					<div class="sidebar">
+						<div class="user-top">
+							<div class="avarta"><img src="images/teach-1.png" class="img-fluid" alt=""></div> 
+							<h6>Nguyễn Hoài An</h6>
+						</div>
 						<ul>
 							<li><a href=""><img src="images/side-1.png" class="img-fluid" alt=""><span>Thông tin cá nhân</span></a></li>
 							<li><a href=""><img src="images/side-2.png" class="img-fluid" alt=""><span>Thông báo</span></a></li>

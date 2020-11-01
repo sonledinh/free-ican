@@ -1,7 +1,7 @@
 <footer>
 	<div class="footer-top">
 		<div class="container">
-			<div class="row align-items-center">
+			<div class="row">
 				<div class="col-md-3">
 					<div class="item-footer">
 						<div class="ft-logo">
@@ -9,7 +9,7 @@
 								<li class="list-inline-item"><a href=""><img src="images/logo-ft.png" class="img-fluid" alt=""></a></li>
 								<li class="list-inline-item"><a href=""><img src="images/sc-1.svg" class="img-fluid" alt=""></a></li>
 								<li class="list-inline-item"><a href=""><img src="images/sc-2.svg" class="img-fluid" alt=""></a></li>
-								<li class="list-inline-item"><a href=""><img src="images/sc-3.svg" class="img-fluid" alt=""></a></li>
+								<!-- <li class="list-inline-item"><a href=""><img src="images/sc-3.svg" class="img-fluid" alt=""></a></li> -->
 							</ul>
 						</div>
 					</div>
@@ -64,6 +64,8 @@
 
 <!--Link js-->
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/jquery.mmenu.all.js"></script>
+<script type="text/javascript" src="js/wow.min.js"></script>
 <script type="text/javascript" src="js/slick.min.js"></script>
 <script type="text/javascript" src="js/swiper.min.js"></script>
 <script type="text/javascript" src="js/private.js"></script>

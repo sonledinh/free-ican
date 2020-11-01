@@ -26,12 +26,12 @@
 	</section>
 	<section class="box-mission pb-60">
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".1s">
 				<h2>Sứ mệnh của ICAN</h2>
 				<p>Gia Sư 4.0 dành cho mọi gia định việt -  dẫn đầu xu thế gia sư</p>
 			</div>
 			<div class="list-mission">
-				<div class="item-mss">
+				<div class="item-mss wow fadeInUp wHighlight" data-wow-delay=".1s">
 					<div class="row">
 						<div class="col-md-6">
 							<div class="txt-miss">
@@ -54,7 +54,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="item-mss">
+				<div class="item-mss wow fadeInUp wHighlight" data-wow-delay=".1s">
 					<div class="row">
 						<div class="col-md-6">
 							<div class="txt-miss">
@@ -80,13 +80,13 @@
 	</section>
 	<section class="box-advan pb-60">
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".1s">
 				<h2>Các ưu điểm nổi bật</h2>
 				<p>Gia sư 4.0 dành cho mọi gia đình việt - dẫn đầu xu thế gia sư</p>
 			</div>
 			<div class="list-adv">
 				<div class="row">
-					<div class="col-md-6">
+					<div class="col-md-6 wow fadeInUp wHighlight" data-wow-delay=".1s">
 						<div class="item-adv text-center">
 							<div class="icon-top"><img src="images/i-top-1.png.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -95,7 +95,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6">
+					<div class="col-md-6 wow fadeInUp wHighlight" data-wow-delay=".1s">
 						<div class="item-adv text-center">
 							<div class="icon-top"><img src="images/i-top-2.png.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -104,7 +104,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6">
+					<div class="col-md-6 wow fadeInUp wHighlight" data-wow-delay=".1s">
 						<div class="item-adv text-center">
 							<div class="icon-top"><img src="images/i-top-3.png.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -113,7 +113,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6">
+					<div class="col-md-6 wow fadeInUp wHighlight" data-wow-delay=".1s">
 						<div class="item-adv text-center">
 							<div class="icon-top"><img src="images/i-top-4.png.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -122,7 +122,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6">
+					<div class="col-md-6 wow fadeInUp wHighlight" data-wow-delay=".1s">
 						<div class="item-adv text-center">
 							<div class="icon-top"><img src="images/i-top-5.png.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -131,7 +131,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-6">
+					<div class="col-md-6 wow fadeInUp wHighlight" data-wow-delay=".1s">
 						<div class="item-adv text-center">
 							<div class="icon-top"><img src="images/i-top-6.png.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -146,7 +146,7 @@
 	</section>
 	<section class="box-price pb-60">
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".1s">
 				<h2>Chi phí cạnh tranh</h2>
 				<p>Gia sư 4.0 dành cho mọi gia đình việt - dẫn đầu xu thế gia sư</p>
 			</div>
@@ -157,10 +157,10 @@
 					</div>
 					<div class="col-md-6">
 						<ul>
-							<li>Chi phí thuê gia sư hợp lý<a href="">Xem thêm <img src="images/link-share.svg" class="img-fluid" alt=""></a></li>
-							<li>Một tuần học thử hoàn toàn miễn phí<a href="">Xem thêm <img src="images/link-share.svg" class="img-fluid" alt=""></a></li>
-							<li>Các gói gia sư - từ cơ bản đến chuyên nghiệp<a href="">Xem thêm <img src="images/link-share.svg" class="img-fluid" alt=""></a></li>
-							<li>Học ghép linh động với các học sinh khác<a href="">Xem thêm <img src="images/link-share.svg" class="img-fluid" alt=""></a></li>
+							<li class=" wow fadeInUp wHighlight" data-wow-delay=".1s">Chi phí thuê gia sư hợp lý<a href="">Xem thêm <img src="images/link-share.svg" class="img-fluid" alt=""></a></li>
+							<li class=" wow fadeInUp wHighlight" data-wow-delay=".1s">Một tuần học thử hoàn toàn miễn phí<a href="">Xem thêm <img src="images/link-share.svg" class="img-fluid" alt=""></a></li>
+							<li class=" wow fadeInUp wHighlight" data-wow-delay=".1s">Các gói gia sư - từ cơ bản đến chuyên nghiệp<a href="">Xem thêm <img src="images/link-share.svg" class="img-fluid" alt=""></a></li>
+							<li class=" wow fadeInUp wHighlight" data-wow-delay=".1s">Học ghép linh động với các học sinh khác<a href="">Xem thêm <img src="images/link-share.svg" class="img-fluid" alt=""></a></li>
 						</ul>
 					</div>
 					<div class="col-md-3">
@@ -172,13 +172,13 @@
 	</section>
 	<section>
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".1s">
 				<h2>Gia sư tiêu biểu tại ICAN</h2>
 				<p>Gia sư 4.0 dành cho mọi gia đình việt - dẫn đầu xu thế gia sư</p>
 			</div>
 		</div>
 	</section>
-	<section class="box-teacher" style="background: url('images/bg-teacher.png') no-repeat center;">
+	<section class="box-teacher wow fadeInUp wHighlight" data-wow-delay=".1s" style="background: url('images/bg-teacher.png') no-repeat center;">
 		<div class="container">
 			<div class="slide-teacher">
 				<div class="item-slide">
@@ -234,11 +234,11 @@
 	</section>
 	<section class="box-feedback pt-60 pb-60">
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".1s">
 				<h2>Các phụ huynh nói gì về ICAN</h2>
 				<p>Gia sư 4.0 dành cho mọi gia đình việt - dẫn đầu xu thế gia sư</p>
 			</div> 
-			<div class="slide-feedback">
+			<div class="slide-feedback wow fadeInUp wHighlight" data-wow-delay=".1s">
 				<div class="item-slide">
 					<div class="item-feed">
 						<div class="info-top">
@@ -300,13 +300,13 @@
 	</section>
 	<section>
 		<div class="container">
-			<div class="title text-center">
+			<div class="title text-center wow fadeInUp wHighlight" data-wow-delay=".1s">
 				<h2>Danh sách khóa học tại ICAN</h2>
 				<p>Gia sư 4.0 dành cho mọi gia đình việt - dẫn đầu xu thế gia sư</p>
 			</div> 
 		</div>
 	</section>
-	<section class="box-khoahoc">
+	<section class="box-khoahoc wow fadeInUp wHighlight" data-wow-delay=".1s">
 		<div class="container"> 
 			<div class="slide-khoahoc">
 				<div class="item-slide">
@@ -348,15 +348,20 @@
 			</div>
 		</div>
 	</section>
-	<section class="box-subscribe">
+	<section class="box-subscribe wow fadeInUp wHighlight" data-wow-delay=".1s">
 		<div class="container">
 			<ul class="list-inline">
-				<li class="list-inline-item"></li>
-				<li class="list-inline-item txt-sub">Để lại số điện thoại của bạn Nhân viên của chúng tôi sẽ trực tiếp gọi lại để tư vấn</li>
+				<li class="list-inline-item txt-sub"><img src="images/phone-sub.png" class="img-fluid" alt=""> <span>Để lại số điện thoại của bạn Nhân viên của chúng tôi sẽ trực tiếp gọi lại để tư vấn</span></li>
 				<li class="list-inline-item"><input type="text" placeholder="Số điện thoại của bạn" class="inp_sub"></li>
 				<li class="list-inline-item"><input type="submit" value="Đồng ý" class="btn-sub"></li>
 			</ul>
 		</div>
+	</section>
+	<section class="fix-home">
+		<ul>
+			<li><a href="javascript:void(0)"><img src="images/home-1.svg" class="img-fluid" alt=""></a></li>
+			<li><a href="javascript:void(0)"><img src="images/home-2.svg" class="img-fluid" alt=""></a></li>
+		</ul>
 	</section>
 </main>
 <?php include 'footer.php';?>

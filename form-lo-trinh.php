@@ -28,8 +28,8 @@
 									<h2>Bài 1: Định thức cơ bản trong tam giác cân</h2>
 									<ul class="list-inline">
 										<li class="list-inline-item"><span>Upload tài liệu:</span></li>
-										<li class="list-inline-item"><a href="download">tamgiaccan.pdf</a></li>
-										<li class="list-inline-item"><a href="download">hetamgiac.docx</a></li>
+										<li class="list-inline-item"><a href="download">tamgiaccan.pdf <img src="images/down.png" class="img-fluid" alt=""></a></li>
+										<li class="list-inline-item"><a href="download">hetamgiac.docx <img src="images/down.png" class="img-fluid" alt=""></a></li>
 										<li class="list-inline-item"><a href="" class="upload"><img src="images/upload.png" class="img-fluid" alt=""></a></li>
 									</ul>
 								</div>
@@ -40,8 +40,8 @@
 									<h2>Bài 1: Định thức cơ bản trong tam giác cân</h2>
 									<ul class="list-inline">
 										<li class="list-inline-item"><span>Upload tài liệu:</span></li>
-										<li class="list-inline-item"><a href="download">tamgiaccan.pdf</a></li>
-										<li class="list-inline-item"><a href="download">hetamgiac.docx</a></li>
+										<li class="list-inline-item"><a href="download">tamgiaccan.pdf <img src="images/down.png" class="img-fluid" alt=""></a></li>
+										<li class="list-inline-item"><a href="download">hetamgiac.docx <img src="images/down.png" class="img-fluid" alt=""></a></li>
 										<li class="list-inline-item"><a href="" class="upload"><img src="images/upload.png" class="img-fluid" alt=""></a></li>
 									</ul>
 								</div>
@@ -52,56 +52,56 @@
 									<h2>Bài 1: Định thức cơ bản trong tam giác cân</h2>
 									<ul class="list-inline">
 										<li class="list-inline-item"><span>Upload tài liệu:</span></li>
-										<li class="list-inline-item"><a href="download">tamgiaccan.pdf</a></li>
-										<li class="list-inline-item"><a href="download">hetamgiac.docx</a></li>
+										<li class="list-inline-item"><a href="download">tamgiaccan.pdf <img src="images/down.png" class="img-fluid" alt=""></a></li>
+										<li class="list-inline-item"><a href="download">hetamgiac.docx <img src="images/down.png" class="img-fluid" alt=""></a></li>
 										<li class="list-inline-item"><a href="" class="upload"><img src="images/upload.png" class="img-fluid" alt=""></a></li>
 									</ul>
 								</div>
 							</div>
 							<div class="item-lotrinh">
-								<div class="status active"><span>Đã dạy</span></div>
+								<div class="status"><span>Chưa dạy</span></div>
 								<div class="inf">
 									<h2>Bài 1: Định thức cơ bản trong tam giác cân</h2>
 									<ul class="list-inline">
 										<li class="list-inline-item"><span>Upload tài liệu:</span></li>
-										<li class="list-inline-item"><a href="download">tamgiaccan.pdf</a></li>
-										<li class="list-inline-item"><a href="download">hetamgiac.docx</a></li>
+										<li class="list-inline-item"><a href="download">tamgiaccan.pdf <img src="images/down.png" class="img-fluid" alt=""></a></li>
+										<li class="list-inline-item"><a href="download">hetamgiac.docx <img src="images/down.png" class="img-fluid" alt=""></a></li>
 										<li class="list-inline-item"><a href="" class="upload"><img src="images/upload.png" class="img-fluid" alt=""></a></li>
 									</ul>
 								</div>
 							</div>
 							<div class="item-lotrinh">
-								<div class="status active"><span>Đã dạy</span></div>
+								<div class="status"><span>Chưa dạy</span></div>
 								<div class="inf">
 									<h2>Bài 1: Định thức cơ bản trong tam giác cân</h2>
 									<ul class="list-inline">
 										<li class="list-inline-item"><span>Upload tài liệu:</span></li>
-										<li class="list-inline-item"><a href="download">tamgiaccan.pdf</a></li>
-										<li class="list-inline-item"><a href="download">hetamgiac.docx</a></li>
+										<li class="list-inline-item"><a href="download">tamgiaccan.pdf <img src="images/down.png" class="img-fluid" alt=""></a></li>
+										<li class="list-inline-item"><a href="download">hetamgiac.docx <img src="images/down.png" class="img-fluid" alt=""></a></li>
 										<li class="list-inline-item"><a href="" class="upload"><img src="images/upload.png" class="img-fluid" alt=""></a></li>
 									</ul>
 								</div>
 							</div>
 							<div class="item-lotrinh">
-								<div class="status active"><span>Đã dạy</span></div>
+								<div class="status"><span>Chưa dạy</span></div>
 								<div class="inf">
 									<h2>Bài 1: Định thức cơ bản trong tam giác cân</h2>
 									<ul class="list-inline">
 										<li class="list-inline-item"><span>Upload tài liệu:</span></li>
-										<li class="list-inline-item"><a href="download">tamgiaccan.pdf</a></li>
-										<li class="list-inline-item"><a href="download">hetamgiac.docx</a></li>
+										<li class="list-inline-item"><a href="download">tamgiaccan.pdf <img src="images/down.png" class="img-fluid" alt=""></a></li>
+										<li class="list-inline-item"><a href="download">hetamgiac.docx <img src="images/down.png" class="img-fluid" alt=""></a></li>
 										<li class="list-inline-item"><a href="" class="upload"><img src="images/upload.png" class="img-fluid" alt=""></a></li>
 									</ul>
 								</div>
 							</div>
 							<div class="item-lotrinh">
-								<div class="status active"><span>Đã dạy</span></div>
+								<div class="status"><span>Chưa dạy</span></div>
 								<div class="inf">
 									<h2>Bài 1: Định thức cơ bản trong tam giác cân</h2>
 									<ul class="list-inline">
 										<li class="list-inline-item"><span>Upload tài liệu:</span></li>
-										<li class="list-inline-item"><a href="download">tamgiaccan.pdf</a></li>
-										<li class="list-inline-item"><a href="download">hetamgiac.docx</a></li>
+										<li class="list-inline-item"><a href="download">tamgiaccan.pdf <img src="images/down.png" class="img-fluid" alt=""></a></li>
+										<li class="list-inline-item"><a href="download">hetamgiac.docx <img src="images/down.png" class="img-fluid" alt=""></a></li>
 										<li class="list-inline-item"><a href="" class="upload"><img src="images/upload.png" class="img-fluid" alt=""></a></li>
 									</ul>
 								</div>

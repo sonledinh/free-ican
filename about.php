@@ -7,6 +7,7 @@
 				<div class="desc">
 					Trung tâm gia sư ICAN được ra đời với sứ mệnh tiên phong mang đến đội ngũ gia sư Trọn Đức – Vẹn Tài, được đào tạo theo phương pháp “GIÁO DỤC CẢI TIẾN”, giúp các bậc phụ huynh an vui với việc học của con mình .
 				</div>
+				<div class="img-abs"><img src="images/ab-top.png" class="img-fluid" alt=""></div>
 			</div>
 			<div class="content-about">
 				<div class="title-about text-uppercase">gia sư ican và sự khác biệt</div>
@@ -17,7 +18,7 @@
 							<h3>GIÁO DỤC 4.0 CÙNG CON</h3>
 							<div class="desc">Với ứng dụng thông minh ICA do chính đội ngũ gia sư cao cấp xây dựng, bao gồm các bài kiểm tra năng lực, đánh giá từ tổng quan đến chi tiết cho mỗi học sinh trong cộng đồng ICAN. Nhờ vậy các bậc phụ huynh có thể theo dõi sự tiến bộ của con mỗi ngày</div>
 						</div>
-					</div>
+					</div> 
 					<div class="item-about">
 						<div class="avarta"><img src="images/ab-2.png" class="img-fluid" alt=""></div>
 						<div class="info">

@@ -1,6 +1,6 @@
 <?php include 'header.php';?>
 <main>
-	<section id="new-class" style="background: #fff;">
+	<section id="new-class">
 		<div class="container">
 			<div class="filter-gs">
 				<ul class="justify-content-end d-flex list-inline">
@@ -37,7 +37,7 @@
 				  </thead>
 				  <tbody>
 				    <tr>
-				      <td>Nhận lớp</td>
+				      <td><span>Nhận lớp</span></td>
 				      <td>TH3001</td>
 				      <td>Toán học</td>
 				      <td>3</td>
@@ -52,7 +52,7 @@
 				      <td>Cầu Giấy, Hà Nội</td>
 				    </tr>
 				    <tr>
-				      <td>Nhận lớp</td>
+				      <td><span>Nhận lớp</span></td>
 				      <td>TH3001</td>
 				      <td>Toán học</td>
 				      <td>3</td>
@@ -66,8 +66,8 @@
 				      </td>
 				      <td>Cầu Giấy, Hà Nội</td>
 				    </tr>
-				    <tr>
-				      <td>Đã nhận</td>
+				    <tr class="check-clss">
+				      <td><span class="active">Đã nhận</span></td>
 				      <td>TH3001</td>
 				      <td>Toán học</td>
 				      <td>3</td>

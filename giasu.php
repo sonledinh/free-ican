@@ -187,6 +187,15 @@
 				</div>
 			</div>
 		</div>
+		<div class="fix-right">
+			<ul>
+				<li><a href="tel:0123456789"><img src="images/tel-right.png" class="img-fluid" alt=""></a></li>
+				<li><a href="javascript:void(0)"><img src="images/chat-right.png" class="img-fluid" alt=""></a></li>
+			</ul>
+		</div>
+		<div class="fix-mxh">
+			<a href="javascript:void(0)"><img src="images/zalo.png" class="img-fluid" alt=""></a>
+		</div>
 	</section>
 	<section class="box-subscribe">
 		<div class="container">

@@ -35,6 +35,10 @@
 								<li class="list-inline-item"><a href="">Toán học</a></li>
 								<li class="list-inline-item"><a href="">Vật lý</a></li>
 								<li class="list-inline-item"><a href="">Hóa học</a></li>
+								<li class="list-inline-item"><a href="">Hóa học</a></li>
+								<li class="list-inline-item"><a href="">Toán học</a></li>
+								<li class="list-inline-item"><a href="">Vật lý</a></li>
+								<li class="list-inline-item"><a href="">Hóa học</a></li>
 							</ul>
 						</div>
 						<div class="tl-search">
@@ -52,7 +56,7 @@
 									<div class="avarta"><a href=""><img src="images/docs.png" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
 										<h3><a href="">Tài liệu toán hình học, tam giác cân trong tam giác vuông, mặc dù nó không vuông</a></h3>
-										<div class="btn-download text-center"><a href="">Tải xuống</a></div>
+										<div class="btn-download text-center"><a href=""><i class="fa fa-download"></i>Tải xuống</a></div>
 									</div>
 								</div>
 							</div>
@@ -61,7 +65,7 @@
 									<div class="avarta"><a href=""><img src="images/docs.png" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
 										<h3><a href="">Tài liệu toán hình học, tam giác cân trong tam giác vuông, mặc dù nó không vuông</a></h3>
-										<div class="btn-download text-center"><a href="">Tải xuống</a></div>
+										<div class="btn-download text-center"><a href=""><i class="fa fa-download"></i>Tải xuống</a></div>
 									</div>
 								</div>
 							</div>
@@ -70,7 +74,7 @@
 									<div class="avarta"><a href=""><img src="images/docs.png" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
 										<h3><a href="">Tài liệu toán hình học, tam giác cân trong tam giác vuông, mặc dù nó không vuông</a></h3>
-										<div class="btn-download text-center"><a href="">Tải xuống</a></div>
+										<div class="btn-download text-center"><a href=""><i class="fa fa-download"></i>Tải xuống</a></div>
 									</div>
 								</div>
 							</div>
@@ -79,7 +83,7 @@
 									<div class="avarta"><a href=""><img src="images/docs.png" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
 										<h3><a href="">Tài liệu toán hình học, tam giác cân trong tam giác vuông, mặc dù nó không vuông</a></h3>
-										<div class="btn-download text-center"><a href="">Tải xuống</a></div>
+										<div class="btn-download text-center"><a href=""><i class="fa fa-download"></i>Tải xuống</a></div>
 									</div>
 								</div>
 							</div>
@@ -88,7 +92,7 @@
 									<div class="avarta"><a href=""><img src="images/docs.png" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
 										<h3><a href="">Tài liệu toán hình học, tam giác cân trong tam giác vuông, mặc dù nó không vuông</a></h3>
-										<div class="btn-download text-center"><a href="">Tải xuống</a></div>
+										<div class="btn-download text-center"><a href=""><i class="fa fa-download"></i>Tải xuống</a></div>
 									</div>
 								</div>
 							</div>
@@ -102,7 +106,7 @@
 									<div class="avarta"><a href=""><img src="images/docs.png" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
 										<h3><a href="">Tài liệu toán hình học, tam giác cân trong tam giác vuông, mặc dù nó không vuông</a></h3>
-										<div class="btn-download text-center"><a href="">Tải xuống</a></div>
+										<div class="btn-download text-center"><a href=""><i class="fa fa-download"></i>Tải xuống</a></div>
 									</div>
 								</div>
 							</div>
@@ -111,7 +115,7 @@
 									<div class="avarta"><a href=""><img src="images/docs.png" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
 										<h3><a href="">Tài liệu toán hình học, tam giác cân trong tam giác vuông, mặc dù nó không vuông</a></h3>
-										<div class="btn-download text-center"><a href="">Tải xuống</a></div>
+										<div class="btn-download text-center"><a href=""><i class="fa fa-download"></i>Tải xuống</a></div>
 									</div>
 								</div>
 							</div>
@@ -120,7 +124,7 @@
 									<div class="avarta"><a href=""><img src="images/docs.png" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
 										<h3><a href="">Tài liệu toán hình học, tam giác cân trong tam giác vuông, mặc dù nó không vuông</a></h3>
-										<div class="btn-download text-center"><a href="">Tải xuống</a></div>
+										<div class="btn-download text-center"><a href=""><i class="fa fa-download"></i>Tải xuống</a></div>
 									</div>
 								</div>
 							</div>
@@ -129,7 +133,7 @@
 									<div class="avarta"><a href=""><img src="images/docs.png" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
 										<h3><a href="">Tài liệu toán hình học, tam giác cân trong tam giác vuông, mặc dù nó không vuông</a></h3>
-										<div class="btn-download text-center"><a href="">Tải xuống</a></div>
+										<div class="btn-download text-center"><a href=""><i class="fa fa-download"></i>Tải xuống</a></div>
 									</div>
 								</div>
 							</div>
@@ -138,7 +142,7 @@
 									<div class="avarta"><a href=""><img src="images/docs.png" class="img-fluid w-100" alt=""></a></div>
 									<div class="info">
 										<h3><a href="">Tài liệu toán hình học, tam giác cân trong tam giác vuông, mặc dù nó không vuông</a></h3>
-										<div class="btn-download text-center"><a href="">Tải xuống</a></div>
+										<div class="btn-download text-center"><a href=""><i class="fa fa-download"></i>Tải xuống</a></div>
 									</div>
 								</div>
 							</div>
