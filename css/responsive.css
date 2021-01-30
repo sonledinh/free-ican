@@ -1,55 +1,25 @@
-@media (max-width: 1610px) {
+@media (max-width: 1399px) and (min-width: 1200px) {
 	.m-right a {
-	    padding: 0 15px;
-    	min-width: auto;
+		font-size: 13px;
+	}
+	.h-menu ul li {
+	    padding-right: 30px;
 	}
 }
-@media (max-width: 1440px) {
-	.h-menu ul li {
-	    margin-right: 0;
-	    padding-right: 25px;
-	}
-
-	.h-menu a {
-	    font-size: 15px;
-	}
-	.m-right a {
-	    font-size: 15px;
-	}
-	.list-apps h1 {
-	    font-size: 40px;
-	}
-	.sidebar .user-top h6 {
-	    font-size: 18px;
-	}
-
-	.sidebar {
-	    padding: 30px 15px;
-	}
-
-	.sidebar .user-top .avarta {
-	    margin-right: 10px;
-	}
-
-	.sidebar a {
-	    font-size: 15px;
-	}
-	.item-number-money h3 {
-		font-size: 16px;
-	}
-	.item-gs-hot .info h3 {
-	    font-size: 22px;
-	}
-
-	.item-gs-hot .info h5 {
-	    font-size: 15px;
-	}
+@media (max-width: 1400px) and (min-width: 1200px) {
 	body .container {
 	    padding: 0 50px;
 	}
 }
 
-@media (max-width: 1200px) and (min-width: 1024px) {
+@media (max-width: 1250px) and (min-width: 1024px) {
+	.m-right a {
+	    font-size: 10px;
+	}
+
+	.h-menu a {
+	    font-size: 12px;
+	}
 	.infomation-gs {
 	    padding: 25px;
 	}
@@ -447,6 +417,16 @@
 
 	.box-class table thead {
 	    color: #000000;
+	}
+	.header-phone {
+	    top: 0;
+	}
+	.click-popup-banner {
+		bottom: 20%;
+	}
+
+	.click-popup-banner img {
+		max-height: 45px;
 	}
 }
 
@@ -1004,6 +984,51 @@
 	}
 	#new-class {
 	    padding-bottom: 150px;
+	}
+	.item-quess a {
+	    font-size: 16px;
+	}
+
+	.item-quess a:after {
+	    top: 10px;
+	}
+
+	.avar-quess {
+	    margin-bottom: 20px;
+	}
+
+	.avar-quess ul li {
+	    flex: 0 0 45%;
+	    padding-right: 0;
+	}
+
+	.avar-quess ul {
+	    justify-content: center;
+	}
+	.list-adv .col-md-6 {
+	    border: 0;
+	}
+	.header-phone {
+	    display: none;
+	}
+	.form-child .item-flex select {
+	    font-size: 13px;
+	    padding: 0 5px;
+	    width: 100%;
+	}
+
+	.form-child .item-flex .ggs:first-child {
+	    flex: 0 0 60%;
+	}
+
+	.form-child .item-flex .ggs:last-child {
+	    flex: 0 0 40%;
+	}
+	.click-popup-banner img {
+		max-height: 25px;
+	}
+	.popup-reg-check img {
+		max-height: 40px;
 	}
 } 
 @media (max-width: 767px) and (min-width: 576px) {

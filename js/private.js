@@ -224,3 +224,22 @@ jQuery(document).ready(function( $ ) {
      "counters": true
   });
 });
+
+
+$('.slide-bar').slick({
+    autoplay: false,
+    arrow: true,
+    dots: false,
+    slidesToShow: 1, 
+    prevArrow: '<a href="javascript:void(0)" class="prev"><i class="fa fa-angle-left"></i></a>',
+    nextArrow: '<a href="javascript:void(0)" class="next"><i class="fa fa-angle-right"></i></a>',
+}); 
+
+$('.slide-other').slick({
+    autoplay: false,
+    arrow: true,
+    dots: false,
+    slidesToShow: 2, 
+    prevArrow: '<a href="javascript:void(0)" class="prev"><i class="fa fa-angle-left"></i></a>',
+    nextArrow: '<a href="javascript:void(0)" class="next"><i class="fa fa-angle-right"></i></a>',
+}); 
